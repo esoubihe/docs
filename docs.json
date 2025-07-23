@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
+  "theme": "maple",
   "name": "Latitude.sh Docs",
   "colors": {
     "primary": "#16A34A",
